@@ -1,0 +1,11 @@
+{
+  "name": "e-commerce-store-backend",
+  "version": "1.0.0",
+  "description": "vino store api",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonny Lee Valenzuela",
+  "license": "ISC"
+}
